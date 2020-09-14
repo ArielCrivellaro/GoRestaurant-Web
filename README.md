@@ -62,7 +62,7 @@ $ yarn start
 
 ### App
 
-#### [GoRestaurant - Mobile](https://reactjs.org)
+#### [GoRestaurant - Mobile](https://github.com/ArielCrivellaro/GoRestaurant-mobile)
 
 ### 🚧 API Node
 Em construção
